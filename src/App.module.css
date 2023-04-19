@@ -1,0 +1,25 @@
+.Container {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.App {
+  width: 800px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Form {
+}
+
+.List {
+  list-style: none;
+}
+
+.ListItem span {
+  margin: 5px;
+}
